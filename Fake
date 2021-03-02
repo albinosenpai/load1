@@ -1,2 +1,3 @@
 print("---------------------------")
 print("Verificação 2")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/albinosenpai/testi/main/whitelist'))()
